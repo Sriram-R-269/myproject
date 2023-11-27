@@ -1,0 +1,216 @@
+
+body{
+    background-color: rgb(230, 215, 243);    
+}
+.firstone{
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    border-bottom: 0;
+}
+.container{
+    background-color: white;
+    margin-left: 17%;
+    margin-right: 17%;
+    border-radius: 1rem;
+    width: 60%;
+}
+img{
+    border-radius: 1rem;
+    width: 100%;
+    height: 30%;
+}
+table{
+    margin-left: 17%;
+    margin-right: 17%;
+    background-color: white;
+    border-radius: 1rem;
+    border-top-left-radius: 0.8rem;
+    border-top-right-radius: 0.8rem;
+    width: 60%;
+    margin-top: 13px;
+}
+
+.card-header{
+    color: blueviolet ;
+    background-color: blueviolet;
+    border-radius: 1rem;
+    border-bottom-left-radius: 0rem;
+    border-bottom-right-radius: 0rem;
+    height: 0.5rem;
+    width: 100%;
+    margin-top: -2.5px;
+    
+}
+.card-title{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    margin: 1rem;
+}
+
+.card-text{
+    text-align: left;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: lighter;
+    border-bottom: 1px solid rgb(190, 187, 187);
+}
+
+.card-footer{
+    text-align: left;
+    margin-left: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    color: rgb(100, 98, 98);
+}
+.switchaccount{
+    border: 0;
+    background-color: white;
+    color: rgb(59, 59, 242);
+    padding: 0;
+    font-size: medium;
+}
+.notshared{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: rgb(100, 98, 98);
+    font-weight: lighter;
+    margin-top: 8px;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgb(190, 187, 187);
+}
+.indication{
+    text-align: left;
+    margin-left: 1rem;
+    margin-top: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: rgb(248, 29, 29);
+    padding-bottom: 1rem;
+    padding-top: 0%;
+}
+ 
+.row{
+    text-align: left;
+    margin: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: lighter;
+    background-color: rgb(255, 255, 255);
+    margin-left: 17%;
+    margin-right: 17%;
+    border-radius: 1rem;
+    width: 60%;
+}
+.col{
+    text-align: left;
+    margin: 1rem;
+}
+
+.form1{
+    padding: 1rem;
+}
+.form2{
+    padding: 1rem;
+}
+.form3{
+    padding: 1rem;
+}
+.form-check1{
+    padding: 5px;
+}
+.form-check2{
+    padding: 5px;
+}
+.form-check3{
+    padding: 5px;
+}
+
+.form-group{
+    background-color: white;
+    margin-left: 17%;
+    margin-right: 17%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 1rem;
+    width: 60%;
+    margin-top: 13px;
+}
+.card-text1{
+    text-align: left;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.form-control{
+    border: white;
+    border-bottom: 1px solid rgb(190, 187, 187);
+    width: 55rem;
+    height: 2rem;
+    margin: 1rem;
+    padding-bottom: 0%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: rgb(100, 98, 98);
+    font-weight: lighter;
+}
+
+.btn{
+    margin-left: 17%;
+    margin-top: 1rem;
+    width: 7%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 0.5rem;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+
+.clear{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+    width: 7%;
+    border: 0;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color:blueviolet;
+    background-color: rgb(230, 215, 243); 
+    
+}
+.onclick{
+    border: 2px solid rgb(174, 116, 228);
+}
+.footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin: 1rem;
+    color: rgb(100, 98, 98);
+}
+.google{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    margin: 2rem;
+    color: rgb(100, 98, 98);
+}
+
+
+
+
